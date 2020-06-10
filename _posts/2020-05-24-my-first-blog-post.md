@@ -1,5 +1,5 @@
 ---
-title: "My Name and Social Media"
+title: "Name & Social Media"
 date: 2020-05-24
 ---
 #### My Name: David Han
