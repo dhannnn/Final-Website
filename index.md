@@ -1,6 +1,3 @@
-# Welcome to my blog
+# Welcome to my website
 
-My name
-A picture of me
-My social media information
-My brag sheet
+
