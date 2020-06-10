@@ -1,6 +1,6 @@
 ---
-title: "My info"
+title: "My Name and Social Media"
 date: 2020-05-24
 ---
-This blog will contain a photo of me, 
-my brag sheet, name and social media information.
+## Instagram: davidhannnn
+## Snapchat: davidhan03
