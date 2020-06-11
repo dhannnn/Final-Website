@@ -1,9 +1,8 @@
-# **Welcome to my website!** 
+# **Welcome to my repository!** 
 
-## My name is David Han
-## Here is a photo of me
+## This website will contain my social media links, name, photos, and brag sheet.
 
-![](_images/photos.jpg)
+
 
 
 
