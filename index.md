@@ -1,6 +1,10 @@
-# Welcome to my blog
+# **Welcome to my website!** 
 
-My name
-A picture of me
-My social media information
-My brag sheet
+## My name is David Han
+## Here is a photo of me
+
+![](_images/photos.jpg)
+
+
+
+
